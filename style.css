@@ -1,0 +1,35 @@
+.menu img{
+    width: 150px;
+    height: 80px;
+}
+.firstmenu{
+    width: 30vw;
+}
+.secondmenu{
+    position: absolute;
+    left: 0;
+    width: 50vw;
+    background: #494949;
+    content: "";
+    cursor: pointer;
+    display: block;
+    height: 3px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transition: all 500ms ease-in-out 0s;
+    width: 20px;
+}
+
+.image2 img{
+    width: 100vw;
+}
+
+.contt{
+    
+    margin-top: 1vw;
+    display: flex;
+    padding: 3vw;
+    justify-content: center;    
+}
+
